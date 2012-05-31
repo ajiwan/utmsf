@@ -1,5 +1,9 @@
 auto: true
 
+baseurl: /
+url: http://ajiwan.github.com/utmsf/
+
+
 destination: ./_site
 plugins: ./_plugins
 
