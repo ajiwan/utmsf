@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: firstpost
 ---
 
 This will be the best blog ever.
